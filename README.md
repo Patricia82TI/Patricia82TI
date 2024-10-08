@@ -1,14 +1,18 @@
-## Hi there 👋
+## Sejam Bem-Vindos ao Meu Mundo!
 
-*itálico* ou _itálico_
+----------
 
-**Negrito** ou __Negrito__
+:octocat: Olá, me chamo Patrícia Mello!
 
-___negrito e itálico___
+:speech_balloon: Sou Administradora, estudante de Análise e Desenvolvimento de Sistemas
 
-- Lista 1
-- Lista 2
-  - Sublista
+📫[Acesse o meu Linkedin](https://www.linkedin.com/in/patricia-lins-de-mello-474b65323/)
+-------------
+
+### Minhas Tecnologias
+![AWS](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg)
+
+
 
 
 <!--
@@ -25,3 +29,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[def]: https://img.freepik.com/fotos-gratis/lindo-amanhecer-na-praia-sob-um-ceu-azul_181624-26939.jpg?w=360&t=st=1728345695~exp=1728346295~hmac=3b2a64d9b080f07d3aae0c6b0f4d2bef446b0b73c0c5642bab38251cdc510523
+[def2]: https://medial.tenor.com/m/bCfpwMjfAi0AAAAC/cat-typing.gif
