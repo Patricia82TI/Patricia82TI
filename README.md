@@ -27,6 +27,8 @@
 
 ![Patricia Mello GitHub stats](https://github-readme-stats.vercel.app/api?username=Patricia82TI&show_icons=true&theme=dracula)
           
+![Most usede Languages](https://github-readme-starts.vercel.app/api/top-langs/?username=Patrici82TI&layout=compact&langs_count=7&theme=dracula)         
+
           
      
 
